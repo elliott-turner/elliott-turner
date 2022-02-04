@@ -1,4 +1,3 @@
-# Hi, I’m @elliott-turner
+Hi, I'm Elliott
 
-## About Me
-I'm currently studying Mechanical Engineering at the University of Texas at Austin with a focus on mechatronics and robotics. I usually develop in python, have some experience with full stack and MATLAB, and am hoping to become more comfortable in C.
+I am currently studying Mechanical Engineering at the University of Texas at Austin with a focus on mechatronics and robotics. I mostly work in python and have recently been getting into writing code for embedded systems in C. I also have limited experience with full stack development and do my homework in MATLAB.
